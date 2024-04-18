@@ -4,7 +4,7 @@
 +drive.google.com
 +photos.google.com
 +getpocket.com
-+github.*
++*github*
 +gmail.com
 +*.grammarly.com
 +habitica.com
