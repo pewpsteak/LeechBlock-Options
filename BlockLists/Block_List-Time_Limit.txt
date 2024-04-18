@@ -47,6 +47,7 @@
 +*.spotify.com
 +chess.com
 +convertcase.net
++*.plummer.*
 +plummer.infocusapp.com
 +remotedesktop.google.com
 +timeanddate.com
@@ -60,4 +61,7 @@
 +openstudiocoalition.org
 +energyplus.net
 +codes.iccsafe.org
++pnl.gov
++energycodes.gov
++openei.org
 +www.engproguides.com
