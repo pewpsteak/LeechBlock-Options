@@ -1,0 +1,5 @@
+netflix.com
+wcoforever.com
+youtube.com
+watchsnk.net
++*.youtube.*/redirect**
