@@ -1,1 +1,2 @@
-# LeechBlock-Lists
+# LeechBlock Options
+welcome to my shame :)
