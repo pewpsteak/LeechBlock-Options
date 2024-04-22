@@ -69,3 +69,6 @@
 +openei.org
 +www.engproguides.com
 +*.vercel.app
++openai.com
++winehq.org
++ubuntu.com
