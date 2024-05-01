@@ -35,6 +35,7 @@
 +wikimedia.org
 +wikipedia.org
 +wikiquote.org
++wiktionary.org
 +dropboxusercontent.com
 +dropbox.com
 +microsoft.com
