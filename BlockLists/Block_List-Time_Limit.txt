@@ -3,6 +3,7 @@
 +docs.google.com
 +drive.google.com
 +photos.google.com
++fi.google.com
 +getpocket.com
 +*github*
 +gmail.com
