@@ -48,6 +48,8 @@
 +*.office.*
 +*.office365.com
 +*.sharepoint.com
++*.egnyte.com
++egnyte.com
 +*.spotify.com
 +chess.com
 +convertcase.net
