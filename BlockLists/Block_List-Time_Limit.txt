@@ -1,4 +1,9 @@
 *.*
+# Exceptions
+## General Exceptions
++bitwarden.com
++chatgpt.com
++openai.com
 +calendar.google.com
 +docs.google.com
 +drive.google.com
@@ -78,3 +83,12 @@
 +openai.com
 +winehq.org
 +ubuntu.com
+
+## Money Stuff (added b/c of loan process)
++my1003app.com
++wellsfargo.com
++citi.com
++schwab.com
++paycor.com
++fidelity.com
++cash.app
