@@ -1,6 +1,6 @@
 *.*
-# Exceptions
-## General Exceptions
+#Exceptions
+##GeneralExepctions
 +bitwarden.com
 +chatgpt.com
 +openai.com
@@ -84,7 +84,7 @@
 +winehq.org
 +ubuntu.com
 
-## Money Stuff (added b/c of loan process)
+##MoneyStuffAddedForLoanProcess
 +my1003app.com
 +wellsfargo.com
 +citi.com
