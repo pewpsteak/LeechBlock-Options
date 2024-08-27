@@ -85,6 +85,8 @@
 +ubuntu.com
 
 ##MoneyStuffAddedForLoanProcess
++redfin.com
++zillow.com
 +my1003app.com
 +wellsfargo.com
 +citi.com
@@ -92,3 +94,8 @@
 +paycor.com
 +fidelity.com
 +cash.app
++creditkarma.com
++schwabplan.com
++lendwize.io
++chase.com
++credit.advcredit.com
