@@ -83,7 +83,7 @@
 +openai.com
 +winehq.org
 +ubuntu.com
-arcgis.com
++arcgis.com
 
 ##MoneyStuffAddedForLoanProcess
 +redfin.com
