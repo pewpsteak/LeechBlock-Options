@@ -2,8 +2,6 @@
 #Exceptions
 ##GeneralExepctions
 +bitwarden.com
-+chatgpt.com
-+openai.com
 +calendar.google.com
 +docs.google.com
 +drive.google.com
@@ -84,6 +82,14 @@
 +winehq.org
 +ubuntu.com
 +arcgis.com
+
+##AIModelsAndAgents
++replit.com
++claude.ai
++anthropic.com
++chatgpt.com
++openai.com
++deepseek.com
 
 ##MoneyStuffAddedForLoanProcess
 +redfin.com
