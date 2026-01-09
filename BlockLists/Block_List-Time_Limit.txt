@@ -82,6 +82,13 @@
 +winehq.org
 +ubuntu.com
 +arcgis.com
++plummer.unanetae.biz
++unanetae.biz	
++plummer.infocusapp.com
++infocusapp.com
++energystar.gov
++pnnl.gov
++jotform.com
 
 ##AIModelsAndAgents
 +replit.com
