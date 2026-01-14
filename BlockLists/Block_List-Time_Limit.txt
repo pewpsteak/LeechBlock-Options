@@ -89,10 +89,12 @@
 +energystar.gov
 +pnnl.gov
 +jotform.com
++ncees.org
 
 ##AIModelsAndAgents
 +replit.com
 +claude.ai
++claude.com
 +anthropic.com
 +chatgpt.com
 +openai.com
