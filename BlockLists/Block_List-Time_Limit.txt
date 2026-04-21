@@ -84,6 +84,9 @@
 +bwilcox.com
 +procore.com
 +www.engproguides.com
++conservice.com
++palmetto.com
++ei.palmetto.com
 +*.vercel.app
 +openai.com
 +winehq.org
@@ -99,6 +102,7 @@
 +ncees.org
 +marp.app
 +texas.gov
+
 
 ##AIModelsAndAgents
 +replit.com
