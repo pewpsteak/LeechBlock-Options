@@ -103,6 +103,8 @@
 +marp.app
 +texas.gov
 +monday.com
++dev.azure.com
++*.azure.com
 
 
 ##AIModelsAndAgents
