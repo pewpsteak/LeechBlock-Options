@@ -105,6 +105,8 @@
 +monday.com
 +dev.azure.com
 +*.azure.com
++rsmeansonline.com
++gordian.com
 
 
 ##AIModelsAndAgents
